@@ -6,7 +6,7 @@ metadata:
 spec:
     project: default
     source:
-    repoURL: 'https://gitlab.com/[username]/samplegitopsapp.git'
+    repoURL: 'https://github.com/starkshears/SampleGitOpsApp'
     path: overlays
     targetRevision: main
     destination:
